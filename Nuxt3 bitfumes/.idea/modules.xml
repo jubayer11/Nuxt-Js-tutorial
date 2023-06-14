@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../../Bitbyteserv/MySportsHive/MySportsHIve/MySportsHiveFrontend/.idea/MySportsHiveFrontend.iml" filepath="$PROJECT_DIR$/../../../../../Bitbyteserv/MySportsHive/MySportsHIve/MySportsHiveFrontend/.idea/MySportsHiveFrontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Nuxt3 bitfumes.iml" filepath="$PROJECT_DIR$/.idea/Nuxt3 bitfumes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../CSS/Twilind Css/twilind css net ninja/tailwind css/.idea/tailwind css.iml" filepath="$PROJECT_DIR$/../../../../CSS/Twilind Css/twilind css net ninja/tailwind css/.idea/tailwind css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../CSS/Twilind Css/twilind css net ninja/tailwind-tutorial/.idea/tailwind-tutorial.iml" filepath="$PROJECT_DIR$/../../../../CSS/Twilind Css/twilind css net ninja/tailwind-tutorial/.idea/tailwind-tutorial.iml" />
+    </modules>
+  </component>
+</project>
